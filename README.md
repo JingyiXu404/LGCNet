@@ -50,15 +50,8 @@ All the training and testing images used in this paper can be downloaded from th
             └──  3.png
         └── other test datasets
    ```
-**2. Setup configurations**: In .
 
-```
-    "root": "debug/N25"
-    "pretrained_netG": "../Results_models/N25/"
-    "sigma": [25], // noise level [25,50,75]}
-```
-
-**3. Run**: `run_test.py`
+**2. Run**: `run_test.py`
 
 ```
    python run_test.py --iter 3 --sigma 25 --phase 'test' --dataset 'your_dataname'
