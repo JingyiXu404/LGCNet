@@ -1,7 +1,5 @@
 # Laplacian Gradient Consistency Prior for Flash Guided Non-Flash Image Denoising (LGCNet)
-- This is the official repository of the paper "Laplacian Gradient Consistency Prior for Flash Guided Non-Flash Image Denoising" 
-
-Will be released soon
+- This is the official repository of the paper "Laplacian Gradient Consistency Prior for Flash Guided Non-Flash Image Denoising" from **IEEE Transactions on Image Processing (TIP)**. [[Paper Link]](https://ieeexplore.ieee.org/document/10746360, "Paper Link")
 
 
 ## 1. Environment
